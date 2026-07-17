@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Welcome%20to%20J3Omar's%20Github&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%3C/%3E&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Welcome%20to%20J3Omar's%20Github&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%3C/%3E&descAlignY=55&descSize=18" width="100%"/>
 
 <p>
   <a href="https://linkedin.com/in/j3o-86a986299"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -71,7 +71,7 @@ Hello there! I'm **J3Omar** 👋. I enjoy learning new technologies and problem 
 <br/>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=J3Omar&icon=0&color=0" /></a>
+  <img src="https://komarev.com/ghpvc/?username=J3Omar&label=Profile%20views&color=302b63&style=flat" />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
