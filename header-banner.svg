@@ -1,0 +1,26 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.06"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.06"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="200" fill="url(#bgGrad)"/>
+
+  <path d="M0,150 C150,180 300,120 450,150 C600,180 750,120 900,150 C1050,180 1150,140 1200,155 L1200,200 L0,200 Z" fill="url(#waveGrad)"/>
+  <path d="M0,165 C200,195 400,135 600,165 C800,195 1000,135 1200,165 L1200,200 L0,200 Z" fill="#ffffff" opacity="0.05"/>
+
+  <text x="600" y="90" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="600" fill="#ffffff" text-anchor="middle">
+    Welcome to J3Omar's Github
+  </text>
+  <text x="600" y="125" font-family="Consolas, Menlo, monospace" font-size="20" fill="#c9c9e8" text-anchor="middle">
+    &lt;/&gt;
+  </text>
+</svg>
