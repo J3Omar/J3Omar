@@ -50,8 +50,8 @@ Hello there! I'm **J3Omar** 👋. I enjoy learning new technologies and problem 
 ## 📊 Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J3Omar&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3Omar&layout=compact&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=J3Omar&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=J3Omar&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@ Hello there! I'm **J3Omar** 👋. I enjoy learning new technologies and problem 
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=J3Omar&theme=github-dark&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=J3Omar&theme=react-dark&hide_border=true" width="100%"/>
 
 </div>
 
