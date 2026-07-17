@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Welcome%20to%20J3Omar's%20Github&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%3C/%3E&descAlignY=55&descSize=18" width="100%"/>
 
 <p>
-  <a href="https://linkedin.com/in/j3o-86a986299"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/mrhmadt.592237"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
-  <a href="https://youtube.com/@omarhamada-k3j4o"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
-  <a href="mailto:omarworknow@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/j3o-86a986299"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://facebook.com/mrhmadt.592237"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+  <a href="https://youtube.com/@omarhamada-k3j4o"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+  <a href="mailto:omarworknow@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
@@ -50,12 +50,12 @@ Hello there! I'm **J3Omar** 👋. I enjoy learning new technologies and problem 
 ## 📊 Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J3Omar&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3Omar&layout=compact&theme=react&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J3Omar&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3Omar&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=J3Omar&theme=react&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=J3Omar&theme=dark&hide_border=true" />
 </p>
 
 <br/>
@@ -64,7 +64,7 @@ Hello there! I'm **J3Omar** 👋. I enjoy learning new technologies and problem 
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=J3Omar&theme=react-dark&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=J3Omar&theme=github-dark&hide_border=true" width="100%"/>
 
 </div>
 
