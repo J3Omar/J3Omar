@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Welcome%20to%20J3Omar's%20Github&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%3C/%3E&descAlignY=55&descSize=18" width="100%"/>
-
+<img src="header-banner.svg" width="100%"/>
 <p>
   <a href="https://linkedin.com/in/j3o-86a986299"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://facebook.com/mrhmadt.592237"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
