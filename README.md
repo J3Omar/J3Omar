@@ -11,40 +11,44 @@
 
 ## 📖 About me
 
-Hey, I'm **Omar (J3Omar)** 👋 — a full-stack software engineer who turns ideas into working products, end to end: research, design, frontend, backend, and deployment.
+Hey, I'm **Omar (J3Omar)** 👋 — a Software Engineer, Full-Stack (frontend + backend). I enjoy learning new technologies and problem solving.
 
-I started with **C++** and competitive programming (Codeforces Pupil, ~650 problems solved), which taught me to break down hard problems fast and understand how systems work under the hood. From there I moved into **JavaScript/Node.js** for backend, **React/Next.js** for the web, and **Flutter** for mobile — and I now build full products on top of **Supabase** and cloud services.
-
-- 🔭 Currently building an **AI cognitive health benchmark** for engineers who use AI heavily
-- 🌱 Sharpening full-stack skills with **Next.js**, **Node.js**, and **Supabase**
+- 🔭 Currently building projects with **React/Next.js**, **Node.js**, and **Supabase**
+- 🌱 Sharpening full-stack skills across the frontend and backend
 - 💬 Ask me about **C++**, **React/Next.js**, **Node.js**, **Flutter**
-- 🧠 Interested in **psychometrics** and human behavior
 - 📫 Reach me on LinkedIn or by email
 
 <br/>
 
-## 🚀 Projects
+## 🏆 Achievements
 
-- **Controlak** — a tutor-student management & communication app for Egypt's private tutoring market: group management, auto-graded quizzes, and an AI bot that answers student questions from course materials
-- **Wasla** — a local-network chat & file-transfer app (WhatsApp meets ShareIt): calls, messages, and file transfer with no internet required
-- **Hackathon/Bootcamp Scanner** — an automated tracker for hackathon and bootcamp announcements across Egypt, used by 60+ people daily
-- **Liquid Galaxy Flutter Controller** — a mobile controller for Liquid Galaxy, an open-source Google-affiliated visualization project
+- 🥇 Active contributor on GitHub with consistent commits
+- 📚 Continuously expanding skills across frontend and backend
+- 🛠️ Built and shipped multiple personal & practice projects
 
 <br/>
 
 ## 🛠️ Technologies
 
+**Frontend**
+
 <p align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+**Backend & Infrastructure**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
